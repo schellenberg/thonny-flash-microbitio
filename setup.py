@@ -17,7 +17,7 @@ setup(
       a BBC micro:bit with an IO .hex file to support using the micro:bit as
       a sensor/output device. You need to install the cs20-microbitio package to 
       make this useful. More info about Thonny: http://thonny.org""",
-      url="needs to be added...",
+      url="https://github.com/schellenberg/thonny-flash-microbitio",
       author="Dan Schellenberg",
 	    author_email="schellenberg@gmail.com",
       license="MIT",
